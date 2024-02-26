@@ -1,7 +1,7 @@
 # DFS_Optimiser
 
 ## ⚠️ DISCLAIMER
-This repository serves as a public representation of a private Daily Fantasy Sports (DFS) optimization solution. Some scripts have been omitted or rewritten, and the historical dataset includes randomized noise for confidentiality purposes.
+This repository serves as a public representation of a private Daily Fantasy Sports (DFS) optimization solution. Some scripts have been omitted or rewritten, and the historical dataset includes randomised noise for confidentiality purposes.
 
 ## 🚀 Description
 This project showcases my expertise in Python by presenting an optimizer for Daily Fantasy Sports (DFS) contests, specifically targeting Draftkings NFL DFS lineups. The optimizer leverages free online projections and calculates optimal lineups based on user-defined risk tolerance.
